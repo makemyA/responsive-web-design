@@ -1,11 +1,11 @@
-#Responsive Web Design
+# Responsive Web Design
 
 - **Author:** Paul *"makemyA"* Henrot
 - **About:** Learning about Responsive Web design
 - **Period:** *-Start: 28/05/2018-*
 - **Place:** BeCode bootcamp @Becentral buildings in Bruxelles
 
-##Project Description
+## Project Description
 
 * Objective?
 
