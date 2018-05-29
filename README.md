@@ -27,3 +27,5 @@ Here they are:
 <p data-height="265" data-theme-id="dark" data-slug-hash="MXgOWY" data-default-tab="html,result" data-user="makemya-the-bold" data-embed-version="2" data-pen-title="responsive-web-design ex1" class="codepen">See the Pen <a href="https://codepen.io/makemya-the-bold/pen/MXgOWY/">responsive-web-design ex1</a> by makemyA (<a href="https://codepen.io/makemya-the-bold">@makemya-the-bold</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 
     2. Résultat de l'exercice final
+
+Voir sur la [page](https://makemya.github.io/responsive-web-design/challenge/) github
