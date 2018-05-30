@@ -294,7 +294,7 @@ footer h1
 /* Header */
 
 
-@media only all and (max-width: 1000px) { 
+@media only all and (max-width: 640px) { 
 
 header {
     
@@ -358,7 +358,7 @@ nav li {
 
 nav a
 {
-    font-size: 0.8em; /*2.8*/
+    font-size: 1.5em; /*2.8*/
     font-weight: 700;
 }
 
@@ -372,9 +372,9 @@ nav a:hover
 #banniere_image
 {
     margin-top:; /*20*/
-    /*width: 100%;*/
+    width: 100%;
     height: 250px;
-     
+     transform: scale(0.9);
     position: relative;
 
     margin-bottom: ; /*50*/
