@@ -515,7 +515,91 @@ width: 100%;
     font-size: 1em;
 }
 }
+@media only all and (max-width: 1080px) {
+    header {
+    
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    justify-content: space-around;
+}
+#titre_principal
+{   display: flex;
+    grid-row: 1 / 2;
+    
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
 
+    
+}
+#logo
+{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+#logo img
+{
+    width: 69px;
+    height: 70px;
+}
+
+header h1
+{
+    
+    font-size:; /*3*/
+    font-weight: normal;
+    margin: 0 0 0 10px;
+}
+
+header h2
+{
+    font-family: Dayrom, serif;
+    font-size: ; /*1.5*/
+    margin-top: 0px;
+    margin: 0 0 0 20px;
+    font-weight: normal;
+}
+/* Navigation */
+
+nav ul
+{
+    grid-row: 2 / 3;
+    padding:0;
+    justify-content: space-around;
+}
+
+nav li {
+
+    margin-right: 0px; /*30*/
+}
+
+nav a
+{
+    font-size: 1em; /*2.8*/
+    font-weight: 700;
+}
+
+nav a:hover
+{
+    color: #760001;
+    border-bottom: 3px solid #760001;
+}
+/* Bannière */
+#mes_amis ul
+{
+    list-style: none;
+}
+
+#mes_amis a
+{
+    width: 100%;
+   
+    font-size: 1em;
+}
+}
 /*
 @font-face
 {
