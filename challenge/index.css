@@ -358,7 +358,7 @@ nav li {
 
 nav a
 {
-    font-size: 1.5em; /*2.8*/
+    font-size: 1em; /*2.8*/
     font-weight: 700;
 }
 
@@ -512,7 +512,7 @@ width: 100%;
 {
     width: 100%;
    
-    font-size: 2em;
+    font-size: 1em;
 }
 }
 
